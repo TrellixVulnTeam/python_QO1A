@@ -1,0 +1,3 @@
+name : ha
+age : 27
+addr : 서울
